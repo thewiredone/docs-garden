@@ -68,4 +68,4 @@
 
 _**Note!**_
 
-_**To go further with this you’ll need something that can read/write “Felicia-lite-s” cards.**
+**To go further with this you’ll need something that can read/write “Felicia-lite-s” cards.**
