@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/docs/spicetools/how-to-add-card-reader-and-add-cards-to-existing-asphyxia/"}
 ---
 
+Card reader purchased: https://www.amazon.com/dp/B0BVZQKGY9?psc=1&ref=ppx_yo2ov_dt_b_product_details
+
 
 1. The first thing to do is to open ACR122U v1.3 2012-6-8 and open Driver Installer.
     
