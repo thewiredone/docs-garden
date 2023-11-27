@@ -9,7 +9,7 @@
 
 ### Spicetools
 
-[[docs/spicetools/How To - Add Card Reader and Add cards to existing Asphyxia\|How To - Add Card Reader and Add cards to existing Asphyxia]]
+[[docs/spicetools/How To - Add Card Reader and Add cards to existing Asphyxia profiles\|How To - Add Card Reader and Add cards to existing Asphyxia profiles]]
 
 
 
