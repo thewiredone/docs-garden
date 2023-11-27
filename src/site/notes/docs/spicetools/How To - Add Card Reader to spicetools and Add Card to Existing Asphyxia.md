@@ -5,7 +5,7 @@
 
 1. The first thing to do is to open ACR122U v1.3 2012-6-8 and open Driver Installer.
     
-    ![](file:///C:/Users/SMILE-MOBILE/Documents/iA%20Writer/img/cardreader/img01.png)
+    ![](C:/Users/SMILE-MOBILE/Documents/iA%20Writer/img/cardreader/img01.png)
     
 2. Open setup.exe and install the driver.
     
